@@ -1,6 +1,0 @@
-﻿  Source.cpp
-E:\Project\New\Visual stadio\C++ language\opencv\Project3-Shape_recognition\Shape_recognition\Shape_recognition\Source.cpp(63,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-E:\Project\New\Visual stadio\C++ language\opencv\Project3-Shape_recognition\Shape_recognition\Shape_recognition\Source.cpp(69,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-E:\Project\New\Visual stadio\C++ language\opencv\Project3-Shape_recognition\Shape_recognition\Shape_recognition\Source.cpp(80,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-E:\Project\New\Visual stadio\C++ language\opencv\Project3-Shape_recognition\Shape_recognition\Shape_recognition\Source.cpp(86,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Shape_recognition.vcxproj -> E:\Project\New\Visual stadio\C++ language\opencv\Project3-Shape_recognition\Shape_recognition\x64\Debug\Shape_recognition.exe
