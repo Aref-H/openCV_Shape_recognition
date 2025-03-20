@@ -6,4 +6,4 @@
 
 This is a simple project that recognize shapes like rectangle, circle,... 
 
-Note : Watch the video to see code performance.
+Note : Watch the provided video to see the project performance
